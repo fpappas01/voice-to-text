@@ -25,10 +25,10 @@ Install dependencies:
 
 ```bash
 pip install openai python-dotenv
-
+```
 ---
 
 ## Execution
 ```bash
 python3 -m frontend.GUI
-
+```
