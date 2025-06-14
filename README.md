@@ -12,14 +12,14 @@ It uses the **OpenAI Whisper API** to transcribe and translate the audio into En
 - Translates non-English audio to English
 - Generates a concise summary of the audio content
 - Simple graphical user interface (Tkinter)
-- Modular code structure (GUI and API logic separated)
+- Modular code structure
 
 ---
 
 ## Requirements
 
 - Python 3.12+
-- An OpenAI API key (not free)
+- An OpenAI platform API key (not free)
 
 Install dependencies:
 
