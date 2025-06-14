@@ -1,4 +1,4 @@
-# Audio Summarizer (Python GUI + OpenAI Whisper)
+# Audio Summarizer 
 
 This is a Python desktop application that takes an **audio file** (`.mp3`, `.mp4`, `.wav`, `.m4a`) as input and returns a **short description** of its content.
 
